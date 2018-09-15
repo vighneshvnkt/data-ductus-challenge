@@ -1,4 +1,8 @@
 #Check working of stacks
-stacks = [1,2,3]
-stacks.append(4)
-print(stacks.pop())
+string_input = input("Please enter input string inside and along with []")
+try:
+	stacks = list(string_input)
+	stacks.append(4)
+	print(stacks.pop())
+except:
+	print("Invalid!")
