@@ -2,7 +2,6 @@
 
 ## Question
 
-```
 PROMPT:
   	Given a string as input, your task is to write a program which parses the string and prints it out as a horizontal tree. </br>
   	If the string input is invalid, your program should print, "Invalid!" and exit. </br>
@@ -34,14 +33,14 @@ PROMPT:
 
   	EXAMPLE 2 (Output): </br>
   		Invalid! </br>
-```
+
 
 ## Assumptions
 
-```
+
 	Strings are split at ", " and there are no commas inside each element in the string array after splitting </br>
 	If there is a comma, return Invalid.
-```
+
 
 ## Requirements
 
