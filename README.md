@@ -72,6 +72,6 @@ PROMPT:
 
 ## Space complexity
 
-	O(S + I) ~ O(S) where S is the size of paranthesesStack and I is the size of array after splitting input string
+	O(S + I) ~ O(I) where S is the size of paranthesesStack and I is the size of array after splitting input string
 	Additional space is required for selecting substrings from elements in string array
 	eg: string = "Apple" and string[:3] returns a new string containing chars from index 0 to 2
