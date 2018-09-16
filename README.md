@@ -26,10 +26,10 @@ You will get a prompt to submit input string. Once you submit it, you will see t
 PROMPT:
   	Given a string as input, your task is to write a program which parses the string and prints it out as a horizontal tree. </br>
   	If the string input is invalid, your program should print, "Invalid!" and exit. </br>
-  		* Individual elements are delimited with a comma followed by space (e.g., ", ") </br>
-  		* Individual groupings are designated with an open bracket [ and a close bracket ] </br>
-  		* Your program should accomplish this task in the most efficient way possible. </br>
-  		* Empty elements are valid. </br>
+  			- Individual elements are delimited with a comma followed by space (e.g., ", ") </br>
+  			- Individual groupings are designated with an open bracket [ and a close bracket ] </br>
+  			- Your program should accomplish this task in the most efficient way possible. </br>
+  			- Empty elements are valid. </br>
 
   	EXAMPLE 1 (Input): 
   		[1, 2, [A, B, C, [5^&, )()6, , 7], D, E], 3, 4] 
